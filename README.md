@@ -28,8 +28,8 @@ The `cv2.destroyAllWindows()` function simply destroys all the windows we create
 ```
 cv2.destroyAllWindows()
 ```
-Save the preceding code with a name called `image_read.py` and copy a JPG file with `flower.jpg` as its name
+Save the preceding code with a name called `img_read.py` and copy a JPG file with `flower.jpg` as its name
 Execute the code using the following command:
 ```
-$ python image_read.py
+$ python img_read.py
 ```
