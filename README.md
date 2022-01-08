@@ -33,3 +33,6 @@ Execute the code using the following command:
 ```
 $ python img_read.py
 ```
+The output will load an image in grayscale because we used 0 as the value in the `imread()` function:
+
+<img src = "https://raw.githubusercontent.com/Noormahmoud/COGNITIVE-ROBOTICS/main/flower%20in%20grayscale%20.png">
